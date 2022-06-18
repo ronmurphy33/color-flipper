@@ -1,8 +1,7 @@
 .nav-center{
 text-align: center;
-height: 3rem;
+height: 5rem;
 line-height: 1.5rem;
-;
 }
 
 h4{
@@ -16,6 +15,7 @@ h4{
     justify-content: space-evenly;
     list-style-type: none;
     text-decoration: none;
+    margin-top: 0px;
 }
 
 .link{
